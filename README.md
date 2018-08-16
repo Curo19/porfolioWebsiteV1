@@ -21,11 +21,11 @@ help improve my coding skills and to become more familiar with
 technologies.
 
 The site will have the following pages
-Ui -- 
-Homepage,
-Search page,
-Blog entry page
-WYSIWYG page -- This is a page to create new or edit existing blog post enteries.
+Ui:
+- Homepage,
+- Search page,
+- Blog entry page
+- WYSIWYG page -- This is a page to create new or edit existing blog post enteries.
 
 --------
 Technologies
